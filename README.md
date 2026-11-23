@@ -1,4 +1,4 @@
 # app-dev
 Repository Contents
-About Me
-My Favorite Movies
+about-me.md - Contains my personal introduction.
+favorites/movies.md - Contains my favorite movies or series.
