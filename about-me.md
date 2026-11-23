@@ -17,3 +17,8 @@ I want to learn programming because I want to create useful applications and imp
 
 Favorite Food
 Adobo
+Rating
+10/10
+
+Genre
+Science Fiction
