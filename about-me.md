@@ -14,3 +14,6 @@ Python
 
 Why I Want to Learn Programming
 I want to learn programming because I want to create useful applications and improve my problem-solving skills.
+
+Favorite Food
+Adobo
